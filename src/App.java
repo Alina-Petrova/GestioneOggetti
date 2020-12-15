@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class App {
-    static String nomeS;
+    static String nomeS; 
     static String indirizzoS;
     public static void main(String[] args) throws Exception {
         //---------- creiamo scuola------
