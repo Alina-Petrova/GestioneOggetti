@@ -1,0 +1,7 @@
+Tecniche java; Luca Guerrini
+Java ieee; Alfonso Domenici
+HTML; Luca Guerrini
+DB; Luca Guerrini
+CSS;mario rossi
+ENGLISH;Jon gotti
+Ruby;Giorgio Billia
